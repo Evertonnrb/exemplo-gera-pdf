@@ -1,0 +1,12 @@
+obproject/private/
+builprivate/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle//
+nbbuild/
+dist/
+nbdist/
+.pdf
+.nb-gradle/
